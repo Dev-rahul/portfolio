@@ -1,0 +1,47 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "Javascript",
+      "amount": "90"
+    },
+    {
+      "id": 1,
+      "skillName": "React.js",
+      "amount": "90"
+    },
+    {
+      "id": 2,
+      "skillName": "HTML/CSS",
+      "amount": "90"
+    },
+    {
+      "id": 4,
+      "skillName": "Node.js",
+      "amount": "80"
+    },
+    { "id": 3, "skillName": "Tailwind", "amount": "85" },
+    {
+      "id": 6,
+      "skillName": "Material-UI",
+      "amount": "80"
+    },
+    {
+      "id": 7,
+      "skillName": "Redux",
+      "amount": "80"
+    },
+
+    {
+      "id": 5,
+      "skillName": "REST",
+      "amount": "75"
+    },
+
+    {
+      "id": 8,
+      "skillName": "MongoDB",
+      "amount": "60"
+    }
+  ]
+}

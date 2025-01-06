@@ -1,0 +1,37 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "https://netstratum.com/",
+      "company": "Netstratum",
+      "title": "Full Stack Developer",
+      "dateFrom": "October 2018",
+      "dateTo": "September 2021",
+      "info": [
+        "Created web applications based on React for Windstream CCS,using tools like Redux, Tailwind and Material UI.",
+        "Developed applications in React utilizing Hooks, Formik, WebSockets, and implemented live chat functionality using mqtt.js.",
+        "Led a team of five React developers to rebuild the platform entirely from the ground up."
+      ],
+      "stack": ["React.js", "Node.js", "Redux", "Agular"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+    },
+    {
+      "id": 1,
+      "link": "https://netstratum.com/",
+      "company": "Netstratum",
+      "title": "Lead React Developer",
+      "dateFrom": "September 2021",
+      "dateTo": "September 2023",
+      "info": [
+        "Responsible for web team front-end development",
+        "Lead a team of 5 React developers in rebuilding the platform from scratch"
+      ],
+      "stack": ["React.js", "Redux", "Tailwind", "MUI", "mqtt.js"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+      "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    }
+  ]
+}
