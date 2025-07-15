@@ -84,7 +84,6 @@ const Projects = () => {
   const [loadProjectsError, setLoadProjectsError] = useState(null)
 
   const classes = useStyles()
-
   useEffect(() => {
     getProjects()
   }, [])

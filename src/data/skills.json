@@ -2,12 +2,12 @@
   "skills": [
     {
       "id": 0,
-      "skillName": "Javascript",
+      "skillName": "JS / TS",
       "amount": "90"
     },
     {
       "id": 1,
-      "skillName": "React.js",
+      "skillName": "React",
       "amount": "90"
     },
     {
@@ -16,11 +16,20 @@
       "amount": "90"
     },
     {
+      "id": 3,
+      "skillName": "Tailwind",
+      "amount": "85"
+    },
+    {
       "id": 4,
       "skillName": "Node.js",
       "amount": "80"
     },
-    { "id": 3, "skillName": "Tailwind", "amount": "85" },
+    {
+      "id": 5,
+      "skillName": "REST",
+      "amount": "75"
+    },
     {
       "id": 6,
       "skillName": "Material-UI",
@@ -31,17 +40,50 @@
       "skillName": "Redux",
       "amount": "80"
     },
-
-    {
-      "id": 5,
-      "skillName": "REST",
-      "amount": "75"
-    },
-
     {
       "id": 8,
       "skillName": "MongoDB",
       "amount": "60"
+    },
+    {
+      "id": 9,
+      "skillName": "Solidity",
+      "amount": "75"
+    },
+    {
+      "id": 10,
+      "skillName": "Ethereum",
+      "amount": "75"
+    },
+    {
+      "id": 11,
+      "skillName": "Web3.js",
+      "amount": "70"
+    },
+    {
+      "id": 12,
+      "skillName": "Hardhat",
+      "amount": "70"
+    },
+    {
+      "id": 13,
+      "skillName": "PostgreSQL",
+      "amount": "65"
+    },
+    {
+      "id": 14,
+      "skillName": "MySQL",
+      "amount": "70"
+    },
+    {
+      "id": 15,
+      "skillName": "ZK-SNARKs",
+      "amount": "60"
+    },
+    {
+      "id": 16,
+      "skillName": "Ethers.js",
+      "amount": "65"
     }
   ]
 }

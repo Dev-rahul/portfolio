@@ -8,11 +8,13 @@
       "dateFrom": "October 2018",
       "dateTo": "September 2021",
       "info": [
-        "Created web applications based on React for Windstream CCS,using tools like Redux, Tailwind and Material UI.",
-        "Developed applications in React utilizing Hooks, Formik, WebSockets, and implemented live chat functionality using mqtt.js.",
-        "Led a team of five React developers to rebuild the platform entirely from the ground up."
+        "Designed and developed a platform enabling doctors, patients, and manufacturers to collaborate, share data, and analyze the creation of personalized medical devices.",
+        "Utilized a tech stack including Node.js, Express, Angular, and CouchDB for robust and scalable application development.",
+        "Integrated AWS tools such as Elastic Beanstalk, EC2, Cognito and S3 for deployment, authentication, and cloud services.",
+        "Conducted code reviews, debugged issues, and implemented solutions to ensure seamless functionality.",
+        "Oversaw and managed development milestones, driving progress from concept to successful delivery."
       ],
-      "stack": ["React.js", "Node.js", "Redux", "Agular"],
+      "stack": ["React.js", "Node.js", "Redux", "Agular", "CouchDB", "AWS"],
       "logowidth": 80,
       "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
       "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
@@ -25,13 +27,33 @@
       "dateFrom": "September 2021",
       "dateTo": "September 2023",
       "info": [
-        "Responsible for web team front-end development",
-        "Lead a team of 5 React developers in rebuilding the platform from scratch"
+        "Developed web applications for Windstream CCS using React, leveraging tools such as Redux, Tailwind, and Material UI.",
+        "Utilized React Hooks, Formik, and WebSockets, and implemented a live chat feature with mqtt.js.",
+        "Modernized legacy codebases, enhancing functionality and aligning with current development standards.",
+        "Maintained expertise in React state management strategies, ensuring efficient and scalable application performance.",
+        "Led a team of five React developers to rebuild the platform from the ground up, delivering a high-quality and robust solution."
       ],
-      "stack": ["React.js", "Redux", "Tailwind", "MUI", "mqtt.js"],
+      "stack": ["React.js", "Redux", "Tailwind", "MUI", "TypeScript", "mqtt.js"],
       "logoheight": 80,
       "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
       "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    },
+     {
+      "id": 2,
+      "link": "https://swanseatimber.co.uk/",
+      "company": "Swansea Timber & Plywood Co. Ltd",
+      "title": "Full Stack Developer",
+      "dateFrom": "November 2023",
+      "dateTo": "Present",
+      "info": [
+        "Developed and maintained eCommerce websites for hardware product sales using PHP, MySQL, and Bootstrap, ensuring a seamless user experience and scalability for high-traffic environments.",
+        "Integrated third-party payment gateways such as PayPal and Stripe, as well as shipping APIs, to streamline the checkout process and improve user convenience.",
+        "Implemented responsive design principles to ensure optimal performance across various devices, enhancing user engagement and satisfaction."
+      ],
+      "stack": ["PHP", "MySQL", "Bootstrap", "JavaScript", "Linux"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
     }
   ]
 }
