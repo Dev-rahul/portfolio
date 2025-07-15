@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ddf52fc3.chunk.css",
-    "main.js": "/static/js/main.95f3eea5.chunk.js",
-    "main.js.map": "/static/js/main.95f3eea5.chunk.js.map",
+    "main.js": "/static/js/main.54e2a5f5.chunk.js",
+    "main.js.map": "/static/js/main.54e2a5f5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.18180391.chunk.js": "/static/js/2.18180391.chunk.js",
-    "static/js/2.18180391.chunk.js.map": "/static/js/2.18180391.chunk.js.map",
+    "static/js/2.6efeb59c.chunk.js": "/static/js/2.6efeb59c.chunk.js",
+    "static/js/2.6efeb59c.chunk.js.map": "/static/js/2.6efeb59c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.efff4ab6073394778e50ca36b1038b4f.js": "/precache-manifest.efff4ab6073394778e50ca36b1038b4f.js",
+    "precache-manifest.da8e97016634c1d1d51d5aae9749323b.js": "/precache-manifest.da8e97016634c1d1d51d5aae9749323b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ddf52fc3.chunk.css.map": "/static/css/main.ddf52fc3.chunk.css.map",
-    "static/js/2.18180391.chunk.js.LICENSE.txt": "/static/js/2.18180391.chunk.js.LICENSE.txt",
+    "static/js/2.6efeb59c.chunk.js.LICENSE.txt": "/static/js/2.6efeb59c.chunk.js.LICENSE.txt",
     "static/media/8bit.png": "/static/media/8bit.8516f943.png",
     "static/media/8secondz.png": "/static/media/8secondz.9388d614.png",
     "static/media/bartini.png": "/static/media/bartini.c7b2dbe0.png",
@@ -20,12 +20,13 @@
     "static/media/cactuscan.png": "/static/media/cactuscan.9ef3cb72.png",
     "static/media/netstratum.png": "/static/media/netstratum.8394f14c.png",
     "static/media/profile.png": "/static/media/profile.76af0794.png",
-    "static/media/psykinetic.png": "/static/media/psykinetic.9c1952ca.png"
+    "static/media/psykinetic.png": "/static/media/psykinetic.9c1952ca.png",
+    "static/media/swanseatimber&plywoodco.ltd.png": "/static/media/swanseatimber&plywoodco.ltd.32ecd6dd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.18180391.chunk.js",
+    "static/js/2.6efeb59c.chunk.js",
     "static/css/main.ddf52fc3.chunk.css",
-    "static/js/main.95f3eea5.chunk.js"
+    "static/js/main.54e2a5f5.chunk.js"
   ]
 }
